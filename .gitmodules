@@ -1,3 +1,0 @@
-[submodule "subtest"]
-	path = subtest
-	url = https://github.com/kentapon/subtest.git
